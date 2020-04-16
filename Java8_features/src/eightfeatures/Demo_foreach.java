@@ -1,4 +1,4 @@
-//Changes made by som
+//Changes made by some
 package eightfeatures;
 
 import java.util.Arrays;
